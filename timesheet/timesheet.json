@@ -44,15 +44,6 @@
 			"to_hour": 6,
 			"to_minute": 0,
 			"notes": "Notes...."
-		},
-		{
-			"date": "2017-06-08",
-			"type": "Onsite",
-			"from_hour": 6,
-			"from_minute": 0,
-			"to_hour": 6,
-			"to_minute": 0,
-			"notes": "Notes...."
 		}
 	]
 }
