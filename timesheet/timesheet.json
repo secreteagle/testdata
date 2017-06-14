@@ -7,7 +7,7 @@
 			"from_minute": 0,
 			"to_hour": 6,
 			"to_minute": 0,
-			"notes": "Notes....:)"
+			"notes": "Notes....;)"
 		},
 		{
 			"date": "2017-06-02",
@@ -46,16 +46,7 @@
 			"notes": "Notes...."
 		},
 		{
-			"date": "2017-06-06",
-			"type": "Onsite",
-			"from_hour": 6,
-			"from_minute": 0,
-			"to_hour": 6,
-			"to_minute": 0,
-			"notes": "Notes...."
-		},
-		{
-			"date": "2017-06-07",
+			"date": "2017-06-08",
 			"type": "Onsite",
 			"from_hour": 6,
 			"from_minute": 0,
