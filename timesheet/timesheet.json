@@ -2,12 +2,12 @@
 	"line": [
 		{
 			"date": "2017-06-01",
-			"type": "Onsite",
+			"type": "Other",
 			"from_hour": 6,
 			"from_minute": 0,
 			"to_hour": 6,
 			"to_minute": 0,
-			"notes": "Notes...."
+			"notes": "Notes....:)"
 		},
 		{
 			"date": "2017-06-02",
